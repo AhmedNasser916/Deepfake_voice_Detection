@@ -20,7 +20,7 @@ The following frameworks, libraries, and design tools are used in this project:
 ![Project Workflow](https://drive.google.com/file/d/1DS0zDlfjFsSyffHV4aGIM9DP9Av_fQN0/view?usp=sharing)
 ## Demo
 
-[demo](https://drive.google.com/file/d/1BR7RWVgH9XmqdI7MMBbI8nQWn7hNrSuY/view?usp=sharing)
+[demo](https://youtu.be/QE328cv7M2U)
 
 
 ## Documentation
