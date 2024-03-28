@@ -16,8 +16,7 @@ The following frameworks, libraries, and design tools are used in this project:
 
 ## Roadmap
 
-
-![Project Workflow](https://drive.google.com/file/d/1DS0zDlfjFsSyffHV4aGIM9DP9Av_fQN0/view?usp=sharing)
+![project workflow](https://github.com/esraa-mahmoudsaid/Classification-of-Mental-Disorders-in-Egyptian-dialect-of-Arabic/assets/132246508/5d37b9fa-1c4c-41db-9b43-c47cf5185b98)
 ## Demo
 
 [demo](https://youtu.be/QE328cv7M2U)
@@ -43,7 +42,7 @@ After downloading the dataset, replace the contents inside the 'data set waves' 
 Follow these steps to get our project up and running:
 
 1. **Clone the Repository:**
-   ```bash
+```bash
    git clone https://github.com/your-username/your-project.git
    cd your-project
 
@@ -59,14 +58,14 @@ streamlit run main.py
 
 ```
 make sure you are in the project path
-```
+
 ## Acknowledgements
 
 - Special thanks to our sponser Wakeb Tech Company represented by [Eng. Said Hamdi](s.hamdi@wakeb.tech) who had provided strategic insights in real-world applications.
 - Egypt Mentor [Dr. Laila Afify](Laila.afify@kaust.edu.sa)  who had helped us navigate technical challenges and refine our approach.
 - uOttawa Supporter [Dr. Murat](murat.simsek@uOttawa.ca) whose experience in ML and DL had a remarkable role in guiding us in modeling phase.
 
-## traning
+## Traning
 
 
 1. Navigate to the 'get the best number of k feature of MFCC' folder.
@@ -93,6 +92,6 @@ This project is used by [Wakeb Company](https://wakeb.tech/)
 - [@Ahmed Essam](https://github.com/AhmedEssam29)
 - [@Esraa Mahmoudsaid](https://github.com/esraa-mahmoudsaid)
 - [@Alaa Rabie](https://github.com/alaa1124)
-- [@Omnia Elghazoly]()
+- [@Omnia Elghazoly](https://github.com/Omniaelghazoly)
 
 
