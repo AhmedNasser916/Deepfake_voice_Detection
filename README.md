@@ -45,7 +45,7 @@ Follow these steps to get our project up and running:
 ```bash
    git clone https://github.com/your-username/your-project.git
    cd your-project
-
+```
 2. **Install Requirements:**
 ```bash
 pip install -r requirements.txt
